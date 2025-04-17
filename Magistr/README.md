@@ -1,12 +1,35 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! This project showcases my skills, experience, and projects as a developer.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm a passionate developer with experience in building web applications using modern technologies like React, Vite, and more. I enjoy solving problems and creating user-friendly interfaces.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies & Tools
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript / TypeScript
+- HTML / CSS
+- Git & GitHub
+
+## 📂 Projects
+
+Here are some of the projects featured in this portfolio:
+
+- **Project 1:** TODO list
+- **Project 2:** My Portfolio.
+
+
+## 📫 Contact
+
+Feel free to reach out!
+
+- Email: maxonyushko71@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/magistrtheone/)
+- [GitHub](https://github.com/MagistrTheOne)
+
+---
+
+Thank you for visiting my portfolio!
